@@ -1,6 +1,6 @@
 # 👋 Hey there! Welcome to my corner of GitHub 🚀  
 
-I’m a **ISTQB-Certified Software QA Engineer** with **12+ years of breaking (and fixing) things** 💥🛠️.  
+I’m an **ISTQB-Certified Software QA Engineer** with **12+ years of breaking (and fixing) things** 💥🛠️.  
 From **streaming platforms** to **hardware integration**, I’ve made it my mission to ensure software doesn’t just *work*… it works **flawlessly** ✨.  
 
 ---
