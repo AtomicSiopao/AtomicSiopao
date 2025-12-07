@@ -34,6 +34,9 @@ From **streaming platforms** to **hardware integration**, I’ve made it my miss
  - 🐶 A furdad of a pug and a beagle
  - 🍡 Has a passion for food and travel when I can afford it, I guess
  - 🎮 Gamer and wannabe streamer
+ - 🤖 Created these vibe-coded apps:
+ - 🕰️[TimeCapsule](https://timecapsule-581211849548.us-west1.run.app/): see how facts and other information evolved since your birth
+ - 📖[MythosQA](https://mythos-qa-141833053602.us-west1.run.app/): a Test Artifact Generator solely based on a URL provided by the user
 
 ---
 
